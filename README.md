@@ -1,6 +1,7 @@
 Commands to run (within downloaded repo):
 
-~~~docker build -t cloud-docker-hw .
+~~~
+docker build -t cloud-docker-hw .
 ~~~
 Then (for default files already included in image):
 ~~~
