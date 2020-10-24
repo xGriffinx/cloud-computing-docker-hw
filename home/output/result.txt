@@ -1,0 +1,10 @@
+Machine's IP Address: 172.17.0.2
+File Name: input1.txt
+Word Count: 7
+File Name: input2.txt
+Word Count: 4
+File Name: input3.txt
+Word Count: 2
+
+Total Words: 13
+Highest Word Count: 7	from file: input1.txt
